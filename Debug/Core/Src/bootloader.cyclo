@@ -1,0 +1,10 @@
+../Core/Src/bootloader.c:35:6:bootloader	13
+../Core/Src/bootloader.c:144:6:isBuffEmpty	1
+../Core/Src/bootloader.c:150:6:isBuffFull	1
+../Core/Src/bootloader.c:156:6:pushBuff	2
+../Core/Src/bootloader.c:168:6:popBuff	2
+../Core/Src/bootloader.c:180:6:buffDecrypt	3
+../Core/Src/bootloader.c:203:6:JumpToApplication	1
+../Core/Src/bootloader.c:230:6:FDCAN1_FilterSet	3
+../Core/Src/bootloader.c:249:6:FDCAN1_ReceiveMessage	3
+../Core/Src/bootloader.c:262:6:FDCAN1_TransmitMessage	2
