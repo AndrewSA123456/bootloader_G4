@@ -1,0 +1,2 @@
+../Core/Src/backup_reg.c:3:6:backup_reg_write	1
+../Core/Src/backup_reg.c:11:10:backup_reg_read	1
